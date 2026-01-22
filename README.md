@@ -1,4 +1,7 @@
 # UAS_Kripto
 
+##Judul Penelitian:
+ANALISIS KOMPARASI ALGORITMA HASH (MD5, SHA-2, SHA-3, SHA-512) DAN TEKNIK SALTING UNTUK PENINGKATAN KEAMANAN DATA
+
 ## Link YouTube:
 https://youtu.be/KkPp6JoSK7o?si=QDzZ1tibxspvk7T7
